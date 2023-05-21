@@ -98,6 +98,6 @@ button {
   }
   button {
     display: block !important;
-    margin: 0 auto !important;
+    margin: 10px 60px !important;
   }
 }
