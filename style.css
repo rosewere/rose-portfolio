@@ -88,11 +88,16 @@ button {
   text-decoration: underline;
 }
 @media (max-width: 576px) {
-  img {
-    display: none;
+  h1 {
+    text-align: center;
+    font-size: 50px !important;
+    line-height: 1.5px;
   }
-  h1,
   p {
     text-align: center;
+  }
+  button {
+    display: block !important;
+    margin: 0 auto !important;
   }
 }
